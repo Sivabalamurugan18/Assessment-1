@@ -2,3 +2,6 @@
 2.Net full stack development
 3.Automation full stack testing
 4.Cyber security
+5. Ethical hacking
+6.Digital Marketing
+7.Python development
